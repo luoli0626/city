@@ -1,4 +1,4 @@
-﻿package com.wan.sys.util;
+package com.wan.sys.util;
 
 import java.io.UnsupportedEncodingException;
 import java.lang.reflect.Field;
