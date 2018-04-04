@@ -1,0 +1,7 @@
+# Created by .ignore support plugin (hsz.mobi)
+/.idea/
+/device/.settings/
+/device/target/
+/device/.classpath
+/device/.mymetadata
+/device/.project
