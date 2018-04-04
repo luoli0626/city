@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="device"
+  id="myeclipse.1511342795629"
+  context-root="/device"
+  j2ee-spec="6.0"
+  archive="device.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
